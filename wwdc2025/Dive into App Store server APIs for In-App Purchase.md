@@ -1,4 +1,4 @@
-| 时间       | 字幕内容                                                                 |
+| Time       | Subtitle Content                                                                 |
 |------------|-------------------------------------------------------------------------|
 | 0:07       | Hello, I’m Riyaz, an engineer on the App Store server team. In this session, we're diving deep into the App Store server APIs for In-App Purchase. I'll show how our latest updates are designed to streamline and enhance your app server responsibilities. Let's start by exploring some of the key responsibilities performed by your app server. |
 | 0:27       | In this session, I'll focus on three critical responsibilities.          |
